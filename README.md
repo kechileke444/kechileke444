@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Augustine ileke
 - 👀 I’m interested in programming and the eveloving world of technology 
-- 🌱 I’m currently learning data science with Python 
+- 🌱 I’m currently learning full stack web development && DevOps 
 - 📫 You reach me on my email kechileke444@gmail.com
 
 <!---
